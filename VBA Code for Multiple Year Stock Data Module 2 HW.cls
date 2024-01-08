@@ -1,9 +1,3 @@
-VERSION 1.0 CLASS
-BEGIN
-  MultiUse = -1  'True
-END
-Attribute VB_Name = "Sheet2"
-Attribute VB_GlobalNameSpace = False
-Attribute VB_Creatable = False
-Attribute VB_PredeclaredId = True
-Attribute VB_Exposed = True
+version https://git-lfs.github.com/spec/v1
+oid sha256:41438fe49fdda98f3891180f731b47f899bd4c60b92b4a0f181fe333110f685a
+size 219
